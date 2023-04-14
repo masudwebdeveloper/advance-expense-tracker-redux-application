@@ -1,16 +1,22 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "name": "Salary from Google",
+      "name": "facebook for money",
       "type": "income",
-      "amount": 1000000
+      "amount": "1254658",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Family Expenses",
+      "name": "Sylvia Mcintyre",
+      "type": "income",
+      "amount": "500",
+      "id": 2
+    },
+    {
+      "name": "Hedda Everett",
       "type": "expense",
-      "amount": 200000
+      "amount": 50,
+      "id": 3
     }
   ]
 }
