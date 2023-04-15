@@ -41,7 +41,7 @@ const Form = () => {
         data: {
           name,
           type,
-          amount,
+          amount: Number(amount),
         },
       })
     );

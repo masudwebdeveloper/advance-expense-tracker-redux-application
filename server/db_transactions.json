@@ -1,40 +1,16 @@
 {
   "transactions": [
     {
-      "name": "Salary",
+      "name": "Brittany Mccormick",
       "type": "income",
-      "amount": "7000",
+      "amount": 130,
       "id": 1
     },
     {
-      "name": "Upori Income",
-      "type": "income",
-      "amount": "500",
+      "name": "Jesse Sweet",
+      "type": "expense",
+      "amount": 70,
       "id": 2
-    },
-    {
-      "name": "Room rent",
-      "type": "expense",
-      "amount": "3250",
-      "id": 3
-    },
-    {
-      "name": "Meal Cost",
-      "type": "expense",
-      "amount": "2700",
-      "id": 4
-    },
-    {
-      "name": "Bua Bill",
-      "type": "expense",
-      "amount": 280,
-      "id": 5
-    },
-    {
-      "name": "Net Bill",
-      "type": "expense",
-      "amount": 250,
-      "id": 6
     }
   ]
 }
