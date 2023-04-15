@@ -1,22 +1,40 @@
 {
   "transactions": [
     {
-      "name": "facebook for money",
+      "name": "Salary",
       "type": "income",
-      "amount": "1254658",
+      "amount": "7000",
       "id": 1
     },
     {
-      "name": "Sylvia Mcintyre",
+      "name": "Upori Income",
       "type": "income",
       "amount": "500",
       "id": 2
     },
     {
-      "name": "Hedda Everett",
+      "name": "Room rent",
       "type": "expense",
-      "amount": 50,
+      "amount": "3250",
       "id": 3
+    },
+    {
+      "name": "Meal Cost",
+      "type": "expense",
+      "amount": "2700",
+      "id": 4
+    },
+    {
+      "name": "Bua Bill",
+      "type": "expense",
+      "amount": 280,
+      "id": 5
+    },
+    {
+      "name": "Net Bill",
+      "type": "expense",
+      "amount": 250,
+      "id": 6
     }
   ]
 }
